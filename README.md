@@ -4,7 +4,7 @@ Welcome to [Ethical Spectacle Research](https:/ethicalspectacle.org)'s founding 
 
 ---
 
-On September 23, 2024 we'll publish (in this repo):
+On September 23, 2024 we'll publish:
 
 - **Our ArXiv paper:** GUS-NET (Generalizations Unfairness and Stereotypes Network).
 - **Named Entity Recognition Model:** BERT for multi-label multi-class classification of tokens.
