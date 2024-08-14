@@ -16,4 +16,4 @@ That weekend, our research group will host a [hackathon](https://ethicalspectacl
 
 ---
 
-In the meantime, you should check out this (blog post)[https://www.linkedin.com/pulse/using-bert-social-bias-classification-maximus-powers-lv1ee/?trackingId=jg4q3vS1QwKO0vY%2B%2BKA2dw%3D%3Dx] about how BERT can be used for binary classification. We build on these concepts in our research paper.
+In the meantime, you should check out this [blog post](https://www.linkedin.com/pulse/using-bert-social-bias-classification-maximus-powers-lv1ee/?trackingId=jg4q3vS1QwKO0vY%2B%2BKA2dw%3D%3Dx) about how BERT can be used for binary classification. We build on these concepts in our research paper.
