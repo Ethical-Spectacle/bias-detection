@@ -12,7 +12,7 @@ This is where we're publish all the resources we used to build datasets and mode
 
 💻 [Notebook](NER/ner_annotation_pipeline.ipynb) for annotating any dataset with the entities: Generalizations, Unfairness, and Stereotypes.
 
-💻 [Notebook](ner_bert_training.ipynb) for training BERT for multi-label token classification (for nested entities).
+💻 [Notebook](NER/ner_bert_training.ipynb) for training BERT for multi-label token classification (for nested entities).
 
 [🚀Try The Model](https://huggingface.co/spaces/maximuspowers/bias-detection-ner) | [Model HF Repo🤗](https://huggingface.co/maximuspowers/bias-detection-ner)
 
@@ -20,9 +20,7 @@ This is where we're publish all the resources we used to build datasets and mode
 
 📝 [Blog post](https://huggingface.co/blog/maximuspowers/bias-detection-in-text) walking through the process of training BERT for binary bias classification.
 
-💻 [Notebook](bert_bias_binary_training.ipynb) for training BERT to classify entire text sequences with a 0-1 probability of social bias.
-
-![Biased text example](hero-pic-smaller.png)
+💻 [Notebook](BinaryClassification/bert_bias_binary_training.ipynb) for training BERT to classify entire text sequences with a 0-1 probability of social bias.
 
 ---
 
