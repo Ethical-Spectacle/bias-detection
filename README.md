@@ -10,7 +10,7 @@ This is where we're publish all the resources we used to build datasets and mode
 
 📝 [Blog post](https://huggingface.co/blog/maximuspowers/bias-entity-recognition) explaining the logic behind our model for identifying socially biased entities at the token level.
 
-💻 [Notebook](ner_annotation_pipeline.ipynb) for annotating any dataset with the entities: Generalizations, Unfairness, and Stereotypes.
+💻 [Notebook](NER/ner_annotation_pipeline.ipynb) for annotating any dataset with the entities: Generalizations, Unfairness, and Stereotypes.
 
 💻 [Notebook](ner_bert_training.ipynb) for training BERT for multi-label token classification (for nested entities).
 
