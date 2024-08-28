@@ -28,7 +28,7 @@ This is where we're publish all the resources we used to build datasets and mode
 
 ## What's Next:
 
-Our paper will be published on Sept 27th!! With it, we'll host a [social bias hackathon](https://ethicalspectacle.org/hackathon?id=8) to see what people build with our model. 
+Our paper will be published on Sept 27th!! With it, we'll host a [social bias hackathon](https://ethicalspectacle.org/hackathon?id=8) to see what people build with our final models. 
 
 In the meantime, you should sign up for some a bias detection workshop (phx, az): 
 
