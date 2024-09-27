@@ -2,8 +2,12 @@
 
 Welcome to [Ethical Spectacle Research](https:/ethicalspectacle.org)'s founding project!!
 
+---
+
+## Hackathon:
+
 The collection of GUS-Net resources for the Social Bias Hackathon are in this [huggingface collection](https://huggingface.co/collections/ethical-spectacle/gus-net-66edfe93801ea45d7a26a10f) (not limited to using these resources). 
-- [GUS-Net Paper](https://www.linkedin.com/posts/maximuspowers_gus-net-social-bias-ner-model-activity-7245547070978240512-QUqO?utm_source=share&utm_medium=member_desktop)
+- [GUS-Net Paper](./SDM_2025_Bias_gusnet.pdf)
 - [Hackathon Problem Statement]()
 - Submit your project repo and details on your [dashboard](https://ethicalspectacle.org/login).
 
