@@ -2,6 +2,10 @@
 
 Welcome to [Ethical Spectacle Research](https:/ethicalspectacle.org)'s founding project!!
 
+The collection of GUS-Net resources for the Social Bias Hackathon are in this [huggingface collection](https://huggingface.co/collections/ethical-spectacle/gus-net-66edfe93801ea45d7a26a10f) (not limited to using these resources). 
+- [Hackathon Problem Statement]()
+- Submit your project repo and details on your [dashboard](https://ethicalspectacle.org/login).
+
 ---
 
 This is where we're publish all the resources we used to build datasets and models for bias detection this summer.
@@ -21,13 +25,3 @@ This is where we're publish all the resources we used to build datasets and mode
 📝 [Blog post](https://huggingface.co/blog/maximuspowers/bias-detection-in-text) walking through the process of training BERT for binary bias classification.
 
 💻 [Notebook](BinaryClassification/bert_bias_binary_training.ipynb) for training BERT to classify entire text sequences with a 0-1 probability of social bias.
-
----
-
-## What's Next:
-
-Our paper will be published on Sept 27th!! With it, we'll host a [social bias hackathon](https://ethicalspectacle.org/hackathon?id=8) to see what people build with our final models. 
-
-In the meantime, you should sign up for some a bias detection workshop (phx, az): 
-
-[📅 Intro to NLP, Aug 28, 2024](https://www.meetup.com/ethical-spectacle-research/events/302141069/?eventOrigin=group_events_list) | [📅 Token classification, Sept 11](https://www.meetup.com/ethical-spectacle-research/events/302396840/?eventOrigin=group_events_list)
