@@ -1,9 +1,5 @@
 # 🔍 Bias Detection in Text
 
-Welcome to [Ethical Spectacle Research](https:/ethicalspectacle.org)'s founding project!!
-
----
-
 This is where we're publish all the resources we used to build datasets and models for bias detection this summer.
 
 ## NER (Token-level)
