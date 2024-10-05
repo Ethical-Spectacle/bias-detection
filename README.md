@@ -1,6 +1,6 @@
 # 🔍 Bias Detection in Text
 
-This is where we're publish all the resources we used to build datasets and models for bias detection this summer.
+This is where you can find all the resources we used to build datasets and models for bias detection this summer.
 
 ## NER (Token-level)
 
